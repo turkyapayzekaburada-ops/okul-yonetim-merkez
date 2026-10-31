@@ -1,0 +1,14 @@
+{
+  "product": "okul-yonetim",
+  "version": "0.6.1",
+  "date": "2026-10-31",
+  "time": "2026-10-31T23:27:01.738Z",
+  "notesX": "x9CBTo22VJdk+TesCLIjv2dPRdJQQJQk7hDg55SMiA2uMzQeQbYRspSd4RcubCs7EQXBsq8OVP4HHWUrqn1iClu+R4EvzzoviN8xdixeesGPKDI4+sLtZVm2z+OcXRDjyA3dxgySJtyj6P0tCVpYBzw6Z0U63Jr6dJVLldHJUvPIuCW01Ep66JbOc53siRApug9He1x8lTiyjxQiaAC/JS0gJxswLGf2d5M1hZ/aSXRkXb3ViN5JHfkp5ucIAqaDS3+kMtGKiqtbUQg=",
+  "file": {
+    "url": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/download/v0.6.1/OkulYonetim-Kurulum-0.6.1.exe",
+    "sha512": "ZIO5qZllDdvdm6V5yJLZ/GQE8zC3ldNTpG9IcjfJTmfTJlma39Vawk98l7v+5mHZccDMxD+K6lWkROGp1BlxhA==",
+    "size": 88821773
+  },
+  "page": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/tag/v0.6.1",
+  "sig": "QhV9iHvB2DAzKE5zxS7JS2Za4NOrrhJ0pjuetb/oeqH/htAceKYEcSIFiQ5DV8I7g0hXMwx7FIgX/ltWZswEAQ=="
+}
