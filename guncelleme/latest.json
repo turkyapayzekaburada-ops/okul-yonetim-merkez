@@ -1,14 +1,14 @@
 {
   "product": "okul-yonetim",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "date": "2026-10-31",
-  "time": "2026-10-31T22:54:52.719Z",
-  "notesX": "yJmrZPuqe9HVaYmqMKEXQeBT2gc2pyHZi7DX/LNLBhPWTSDen2KO3F9usoMOIFL5CyLGRpvAQw86T5dHOUisY5/D3eU76YnO6SWAqGUCKysZDnf1F0eEwS/O3yLoRFJcjkM7oSFuV0wUzefgFWKdVBaLOX0yhMK6MP7uhq4OYacRenBc05EManSBe2ATpwWTZKsPR5djTTQ8CUCcvmxI2u2zcEMpe4vZTeLOF0K8rsrpgmv3M1A9EreFhLjXe+GHwPpKSqrPTO+1/V9cw/hp92X+kcA8Cbk1w/aoLbFVr5U8XAOKkvHIURLNTahknAkQq4FDs7k9os0rTIRTUmvh4GcGtnoDFGjO9FzM/39ETpV172qD6JeGR1iktyqC465pgmuyOsY=",
+  "time": "2026-10-31T23:17:28.419Z",
+  "notesX": "r9YVtffBggc4kDyD6lcU+de7+dO/df/l7wZryhK57rAxO4ZQVl+yceV7PoaKekyuQy35EI2x33RaWguh1flgDsPa63+qQwJXa6eLf678PPUYxhhUcL6596CMRjn8W4wTVbf4I6HAAWydezPzOT5muBw2ZxnUoQ8y6EYGarZDeTzB9onw/R7pTQyx0MH9IXepgRn9MTnsm0jAVwFt7zZ3L8XKUiCZfCY++UY4u/Qv/HqL+FKk49hicA85vONqHnTmiPVbNlGYPfiPobA2me8H3BQ63QRnO5DdZ5s+lJyvs8UatkwnMrlScfa334Hz2gi0ft7wlvSqtNILkkZD30c2U5oJwZyU0e38LiN0gmCtRjmWs53EcM3UfrTvdMeH0xoR0V5QLBi9cG0KJSWlkxkwGhsHpEKRWSmyFhUcdwk66JQ/JiUZqz0wTjIjxrTx0WsYm4J1ENV6HZm/XPzVMxsitZvr5r43QHn8Zmvvu+8i8/Rg0lNGCxWaVqsaY7orfS3Jr597ESKOtJyFQwqjRCHIcjviyK3N5+d5NTEEQFVmyF4=",
   "file": {
-    "url": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/download/v0.5.1/OkulYonetim-Kurulum-0.5.1.exe",
-    "sha512": "FOyJy2tQRUUyCtIhFa/BxI2KnBvdxDgX8dRu5RwZ21Qm9RpOEBgMBaNu4xhxOZcjAVApW86KEjRnwsBP+vk0+A==",
-    "size": 88821197
+    "url": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/download/v0.6.0/OkulYonetim-Kurulum-0.6.0.exe",
+    "sha512": "4hcl2ufskfVxleAm6FiM3NfKb5sCIWPbtil7V93VK3DfPYWLAifhPgIq8pScbp6by6A7Ix2rRSzyPL/RnaHkEg==",
+    "size": 88821779
   },
-  "page": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/tag/v0.5.1",
-  "sig": "HP2jlehg3NphmB2Bz4C1KDqglhUipHmviXS3RM9wfkd1vzWxG+f9captraUoU9ScnjFe78kP9SH7iiapf7jTDw=="
+  "page": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/tag/v0.6.0",
+  "sig": "h9ZBcExsA8rw9tQs/NCGzGNdj+mVCiEQCOGJ5kwvIe7+KZK9C/jHv3h7Mwlxx+t835txvv+NglOFRKtwGGfcAw=="
 }
