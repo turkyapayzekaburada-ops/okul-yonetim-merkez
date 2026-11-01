@@ -1,20 +1,20 @@
 {
   "product": "okul-yonetim",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "date": "2026-11-01",
-  "time": "2026-11-01T21:34:59.065Z",
-  "notesX": "4Co74fCE1ATIRGjVnYrfYsMaXYkdqAgo/7GZo6wNIPfQL3MwdnV7WvOcNnsQEezSHGOMW01SlGyNnNDXfoT67lb0079H0z4um+EX+3uu342nLUrZ43XqPBfQJY/3C7JTwKbBRuEyy4uC2z4r4uWKF64YtfMqpz5/FRpekzaosRmoSIVy1zrLyflFHGTBtD5VfU6VOZsaPlTW4vznEKPb07izgGcQOlttoR+LAThlynPF3H/uQiTQKPpW7vV4Ha6cJZUFh26uaQS8xpeLrtrNUHnksTXCx5EvYccCeBeOFkdn6zTKzSMblo47hl4PcNmj3489SuT+uyCh14GHr5NH/A5Yat2lS8w96TeAidpeMlZbRVTsj4n+jMjf5owsnmcoEBnkx0+nZ4XvGtbmlfcZ93QYXu9kWqzLtRmtmDHcZaQskE+Y8lKVghr6vI6xpb+tjGmcho/iW1PgA8oaWkleyKqSLa15ftuU5gZXe3mAIqOekxxYyJPFCnI58h+vEY6sF7F+T3fI7rV9Bvhcia1zClMxxehp6YTRv6FUglh/JD1cWkdUs0GKLVxm5JqD1G81h9BwODVy24kW2Tr2uQBN0g5HLmFa2SvB6dZa0LIXreqp8JmXSDnXbH2XmfbgpLYt1PqrjAkLvS/6KQbS9cu/ILB8huZ+AzXR0wVF4s1g7chl86jMIxPgxZW9RJJkAy/DpxkdAmpYFMG2eSJREIk=",
+  "time": "2026-11-01T21:43:40.901Z",
+  "notesX": "oRNH6zoMTxlYOQKkaiQkh9bAuUshqXVtcVaNa0Ij7Oyvl/wsfOJ2JA31e1XssKDrwP8xBVwXjQUZy8xs+XCaLcr0ZsvHfqwuVK/fMPSkRRFgq6r+8ADDDq5AbqBvunpgnm23m4tNjou12tBKj1mTVfUjoyna0k4Asp2oAPyGfoyXmZR12xc7TbiPcl4u+iSmCT+exZbeuWjK1RyBIiARUe6XJJoHD2wefHpHxGL3/DXQ/Oaa7yj/ZwaQhdNOpQCp51HfNytVI66nqn/jJlC0bm0Fd5gOpIO8KzMWT7OLfuy0FtPf5wsd54WjZxT9bCnyLy9/a6PIBWMsF9wJ9gdyrXFXqwd2B7GD2jmfkV7Qxr2hSD54PMW3lumwVSAd/tlIyZPmDwo+Erdk1c5FJvYpUMiR0v5xdp37D+WFIOIG6iaNUI1UgPjpyk/b50nAC7q8uRWq9SlQeWwH0Y/AE2Dom1xvlOvUKtK11+zbPpc7gNMfxlfMtYl13SwMnnqErUbxqsL1MvJevIgt+wJcuC7hjPRAdaNVOoy/wzpDEd3XfpaUnBZ90u1/8/vOoghkqy5dElYvspEhc1/xh/xZIrqC9dTz0uHJTsFiQ47OeHxUZxk93FdirNyM6Cc8Kj9jQIUVF94W4HVjUEsMRbBhdacKn/56UgNOTyjGvKTRYTOMn29ehmvTroZKQFC+EvuiN63OOw+dMvcSp1oxg1GtSu49qagdmsY=",
   "file": {
-    "url": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/download/v0.13.0/OkulYonetim-Kurulum-0.13.0.exe",
-    "sha512": "ivW1U/zM8OuVMakJx/qcWuE6JtHSzexBUQz7R0+w3MWLfMU2yO6C0t/VO8mksmxxAY7QqYFsqqaubcogApC6Jg==",
-    "size": 88862005
+    "url": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/download/v0.14.0/OkulYonetim-Kurulum-0.14.0.exe",
+    "sha512": "2pVL+nk8DlyZGUniNzVhZ6Lleto7S6oMSyp4eh6wMrPqTCCxTE+I9qDPyJjlIoodIHTzAZX4VWGtQrHvUn7fMw==",
+    "size": 88866389
   },
-  "page": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/tag/v0.13.0",
+  "page": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/tag/v0.14.0",
   "lisans": [
     {
       "u": "https://ep-bitter-wave-baifyepi.apirest.c-8.eu-central-1.aws.neon.tech/neondb",
       "k": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN5bG12eHczMXVyIn0.eyJyb2xlIjoiYW5vbnltb3VzIiwiaWF0IjoxNzkzNTQxMTM2LCJleHAiOjI1ODE5NDExMzZ9.A1jco1qRvct5cLfTzu0DFpReUN40lfF7CPqr7ThODHw-mAlx5tdAT-qPWonNMw7F2DHjAEZwrYPE0OY5916fCekeW1JyELO-wVNAFEMQFm7ih6reP2NJBk3WULtNwlyNLUXAeIs9qUItVqM5LiJn421CCBf8ex_pweHIZkw5MgFBHAEGCZUZEM-gfEzBtRMNTehlOkfmrQlPIwWuGOx3vebAsm-QSlenG6bOakDuqIfKSvMf4gWxSSKjescZtYDsMHHKmex8172jKAEUgdMml5IS9oBOqCea4WWnoRZsGDo6-0e3btoQhaE2irUc0DRgQ_Hxmudl4Wi8o7R7HFc5MQ"
     }
   ],
-  "sig": "StBH6bntdbt2GQlTGjwxQX9E8hvwWct/49cdLB6dKiH5Bfnxuc8a87jFGTBn4A9BlGM9O6wOwrbUTINtPnlUAw=="
+  "sig": "/dllql+gzRBvu6DXxqRZ93yNQWTZJFQbgfW9r9ls2lHTO+Oe9J27LQUFpo31bYnOX/7UDfpINjX6z+KI0sQcAA=="
 }
