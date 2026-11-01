@@ -1,0 +1,20 @@
+{
+  "product": "okul-yonetim",
+  "version": "0.9.0",
+  "date": "2026-11-01",
+  "time": "2026-11-01T20:47:42.831Z",
+  "notesX": "BJQ7JXBZnCSd5Fb3JV8XVZQyfLsVZMI+HeZ+OamZYNJK9uXMpJH/4C+W2MOkIAslK0y7Ko2C03Y8sP3L0Bk5IzLZU0Z6d/VpEXAYFKDY9pExuSs+6HPWsbmz/dUeEqCWzZqByhyLFt8jI6mqkoYviAis/s/oKrNZtlq9UTJFvw/gcr15l2t23+QWU1NUEi2J6RyPfCOm8c5JlWhiDrosZJ4BNyNLq/RjkjMlal1dXEUOwU913bctRwDjkFOpNYBZcJD35TPuUS8Zw/vXu4VTItd/kgWs06D46vU8iIM/Uyj7cvEuHYXhFgXBiJnTqcgZmIMcuyMaTBcR8zO/YQWVFw+IuUJ+R/93/Rse+UW0YvRNxT/l02xG3YRyBmuzoc+kaGBCoe0lSnPodsi7IeFhpOp0/dkEfr/Sv2AANPS8oDH6kdFVw3kVkknjYjQI5WSkEZgrjkjtV0nvYA92OwtUXKTLC5w/GuN3HlCBlCjPtuoMnwzKHbcdex8odQuzP79Ddvxa3MqkS+ZAtNgbXVAb5M8nKV/mG7yYX0C2fM8/mjgbExI+k01PL076Vh986sE7Aii5Al2f8AecF2v9X1aegMHNt9EXN5NOFI3cZ5PBLfdcGWhpVuraUQ00DRg308ILGrdOrcSpSHA9ZgGJArCt3XSmTHFCoMriMpnklNocvsBFMxtM9eJ0mwlas2kQq4BSjVLx6zt+E0rPDHN5CzZq1APxB0s+1NBS5753iGLORxx3LzkoTG1wxf3WPJkKvqEJFjJGM2S9dzmw8s6eEPEEhlUUTAHl211fxpHVwL6hbgl3+s+XG7ChA8uubrztWd3WvDHA",
+  "file": {
+    "url": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/download/v0.9.0/OkulYonetim-Kurulum-0.9.0.exe",
+    "sha512": "KIAsx/4LiELyALqeNFe+RLjcsUVyzdacZ/apP7HPZqaP7Xj3tQq4qMkNDtCZtTOMmTD42Nf3VxU8LOkesBGNEg==",
+    "size": 88841749
+  },
+  "page": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/tag/v0.9.0",
+  "lisans": [
+    {
+      "u": "https://ep-bitter-wave-baifyepi.apirest.c-8.eu-central-1.aws.neon.tech/neondb",
+      "k": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN5bG12eHczMXVyIn0.eyJyb2xlIjoiYW5vbnltb3VzIiwiaWF0IjoxNzkzNTQxMTM2LCJleHAiOjI1ODE5NDExMzZ9.A1jco1qRvct5cLfTzu0DFpReUN40lfF7CPqr7ThODHw-mAlx5tdAT-qPWonNMw7F2DHjAEZwrYPE0OY5916fCekeW1JyELO-wVNAFEMQFm7ih6reP2NJBk3WULtNwlyNLUXAeIs9qUItVqM5LiJn421CCBf8ex_pweHIZkw5MgFBHAEGCZUZEM-gfEzBtRMNTehlOkfmrQlPIwWuGOx3vebAsm-QSlenG6bOakDuqIfKSvMf4gWxSSKjescZtYDsMHHKmex8172jKAEUgdMml5IS9oBOqCea4WWnoRZsGDo6-0e3btoQhaE2irUc0DRgQ_Hxmudl4Wi8o7R7HFc5MQ"
+    }
+  ],
+  "sig": "GsTUTlLAPuj9BH6R6JWRYAFPku95gB45dRKQ/y2rvyIPa1GR6Jzb519akHSI82QXdM+fgVlh0yPSV8gdPfoXAg=="
+}
