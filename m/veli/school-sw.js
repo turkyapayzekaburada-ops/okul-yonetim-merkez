@@ -1,7 +1,7 @@
 'use strict';
 // Yalnız ayrı /veli/ dağıtım dizininde kullanılır; eski mobil SW kapsamıyla birleştirilmez.
 // Öğrenci, oturum, davet, API yanıtı veya yapılandırma ASLA CacheStorage'a yazılmaz.
-const CACHE='oyv-shell-a676d02fa2a29f3c061f';
+const CACHE='oyv-shell-74f2fd75e56f98682405';
 const ASSETS=['./offline.html','./app.css','./veli.js','./school-pwa.js','./school.webmanifest','./icons/icon-192.png','./icons/icon-512.png','./icons/favicon-32.png','./icons/apple-touch-icon.png'];
 const allowed=new Set(ASSETS.map(p=>new URL(p,self.location.href).href));
 self.addEventListener('install',event=>event.waitUntil((async()=>{const c=await caches.open(CACHE);await c.addAll(ASSETS);await self.skipWaiting();})()));
