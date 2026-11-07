@@ -1,0 +1,20 @@
+{
+  "product": "okul-yonetim",
+  "version": "0.25.0",
+  "date": "2026-11-07",
+  "time": "2026-11-07T20:29:35.575Z",
+  "notesX": "I+miXyFc3WS0JgQkP81678TMu7YZz6D4jCztBqjXZdk8tg7Am6A/TwSMXYdkUlRf9YG1h3Nth0+yXBD+3i+kzR18VxaHxXEmz9WpYNooiNQYZTbAgYHCAWSkkIUdaE7ZqWj+a4Q5o3FYRU+hF8CtBzmRaVTd4/iuC6n2m4vbx+2JYVOAB6fN9ygmC3d4T93uDZiVjsn5zGev5mqPq4tScJ8Y+fW006BAukAiWIWkDqi79h7eTogxeAg4PXu4Hq678tCWxLpyK75QmvF1UXPtV1wurmmKyrS08ivRUGUyv8cNGvDPz+Q3qHGZEsfqlRgZK3GysUPiMvYX8dmDougQZMObtjD/sFZvRZxBOiChtnGFC0j6T4VkNtuK/sqX7y4lWKCMzyDnJqeuIEpo+WrfyRlepjX+tLh5iK8vb7ui3UorJaNBHMHwjuY+2Bc42m0Qbd+v7fJfA8xQO0bR0mCM7OF/z9EresBLEJsdtgNUFFKdbpmzQIhzhdjjQa8fkxIz5OHY9MeEplnGaV1AFMEYuxSYxQXA2sF0oPMo5HcOf9wJrQCnwiJbg58h0b508grDRSxrx4izlGDg9viJnSE7jbermaTFjUFT83xUzHHLvnN/a+OxToe1qfzvDQUcIEi/hLPtMPolyLADydFtl6lnkB3xVLWKXx8GBYVOt01sFWKecHWTO1DFeB9VaLYV/M8SXaie1lIob8Nispc+mV5f7KR+DAswJfuZHw1jycGnHf0mnXK3HDKdVmUY/fdCyfNrmxnPPhYE590yh+iIF/spVCx5nJPj4JplocOxfTR7S9tai6Z/2zBZd/oGa+B/vhSPiZ4oh3yU2e+YvF1DGkKpdyI+6PDYBYrZu9SKj8evF7668HPhjTDmLTRqvzOfqULW8VT2Z2GgOyfpeQfHlC0lGnVbHsKoat+7Kjfj/DNcUt4g4n3kGa42eq7a+VJwriD2qWIX7NTF/9jXcWLbyur/IqjQ/MdTeNrQpxr5NkIqki9nJki7RK7f5b86Izc3DdihH6HtCWgkYnWVdWSXYMiDS45M3LRasZP6uUFSeb0mUhpv63Twrm/FmzIkQFgQTOMpToxseNX9CXwDez3/A/tncLeE/GkcUfLhIsIeN1Eg5+qymKPLHjHLmE03JdDLyM9k04pzO/ddW2c2o8PkelEJOmASug6vkRskM2UkI4txGjm+9SWXnT+GpVLIO8gEEIltgcfihpoNh7DvxFTW1/1/aI4ik+h98xuUxAuUMzap4Pk0HsjwuWH9fNXhp2OJs9dJRSyrAsh79Z39P9J3+V0tgn6MlB0hi9KydCNzfNXSwVamLrvX/W2h+RxX/OlQD+c7Jd/DLeamCBWCijE4Ci3O2KmR4Wm5XaOuLMWEMIzZ2j5YMsz4viWlt4EuV/b9L7q0XYm7Bnpyx7/07uznM9H2GIg6puZwDOfXaO+3QuMk+Wn1F/nk1vIpvS8Sr9YmQTs34h8GEe9SUyLHIHoxhbjoRZYlnuoO1oXty1pyKY2CRiWx6HdvinQUUy4xghHh+q0IZi8IJTLWEnagppyGd+a3f/TeRqsEYMaXZy1ddSRfvUooAr+z1KR5MjvDedd39vUhmDiDOPjJGpSMuVr2L/lmxziziNbID6r2doN4XVaWQI1E6ju91mC4b4bStRMgCWCKv79qP3ClctZZ2hdvL/XpdlP7yiQCoFod2rpyV2CVSkOs1Is8prAxfHy15iR2YjVvWdWdWI7x4uqDjEYoU2Ee5RAbRy8fgsgcqa3d7yl1eprx7TcaoOPiRB33ItnjnbFR5O5RvBKu7WnkW3QLZ/8aNVsCr3ESl1uGUuHSIku2D4E5NqUXDfDjS95SKC4vWGFQU4P0hkKwZg+PikBfi4sEff3rxO4=",
+  "file": {
+    "url": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/download/v0.25.0/OkulYonetim-Kurulum-0.25.0.exe",
+    "sha512": "8I3rfEFhTXMynWmbgRkJ8pRizW6NQH/RfPAGSF+YBQm4olrWojEp4oDkTV9wPcD82orXPYk5bmLwtzblLPhurw==",
+    "size": 89229270
+  },
+  "page": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/tag/v0.25.0",
+  "lisans": [
+    {
+      "u": "https://ep-bitter-wave-baifyepi.apirest.c-8.eu-central-1.aws.neon.tech/neondb",
+      "k": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN5bG12eHczMXVyIn0.eyJyb2xlIjoiYW5vbnltb3VzIiwiaWF0IjoxNzkzNTQxMTM2LCJleHAiOjI1ODE5NDExMzZ9.A1jco1qRvct5cLfTzu0DFpReUN40lfF7CPqr7ThODHw-mAlx5tdAT-qPWonNMw7F2DHjAEZwrYPE0OY5916fCekeW1JyELO-wVNAFEMQFm7ih6reP2NJBk3WULtNwlyNLUXAeIs9qUItVqM5LiJn421CCBf8ex_pweHIZkw5MgFBHAEGCZUZEM-gfEzBtRMNTehlOkfmrQlPIwWuGOx3vebAsm-QSlenG6bOakDuqIfKSvMf4gWxSSKjescZtYDsMHHKmex8172jKAEUgdMml5IS9oBOqCea4WWnoRZsGDo6-0e3btoQhaE2irUc0DRgQ_Hxmudl4Wi8o7R7HFc5MQ"
+    }
+  ],
+  "sig": "YZ7qApgwqBA2+ARxk6Zk5Dt5anbpofmZMDSHNUPyHgCuDgvWvfYTQznJ3hPwcNDq6SXknTLyBJDULd4IHv28AQ=="
+}
