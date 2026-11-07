@@ -1,0 +1,20 @@
+{
+  "product": "okul-yonetim",
+  "version": "0.23.0",
+  "date": "2026-11-07",
+  "time": "2026-11-07T19:15:56.165Z",
+  "notesX": "8eFdlafYEx+G8lHQ3PDE3sHIo0uXuFpHp4DGw7Vgmuimhq+6wxHi/ZfgdSacVCwkiSzWr5oAIKfQaudbOLH1WZoNhpJ9qcafJrKjfiIv8jPdk/l3wpZGkpJDjciZnkvPSyPJ3rYU6APcm7qr2g2V760tWbUNWQQrpWV8X4HjBA+QYAfYHiVkvygxcw70S/RJVdto72trcJetGezlEk8777T8e/IphdXFD/pu1ZzssImogMSFW0zXi7KPCnZKCB2TEbeFvEUS5zqFbU1ojGf5/zTsLu0/n6j9PNQ2aQZKgkHsbvP7S5j6BS7dUB4yxMu/UgBaYa/pJXOdBruFivJn907OuSydphaM2ehtIyvFjUwePI1uUYwDJZ90sIpketHgz7yjEAWtgbv08MZhdy98sPzK8HDjLJEkn333Y311RZ637VRjJ9bpVReYITUKLN0EQdCILzENz1s+4TKu+sDyEvlAg1uEIl+wl02CCICq1SVy2TOX2UCEEfGdWMmpUF5W2MQOn1Or69busEdC6ymTsz82+eLrEepPLXiSksIenunwtr2OvxRnJDLYEnnEZuEmVqX3Qfzy1UYLoyir3tyAgIwYHkjsA7fYB+424lqeutqUIN4ygZmaBax1BfRWQV5UOXnlHG2/XcECM0F5uCRP5dEL6GzhtKJm8cTGDKgUtj+sNOHps4IA748kv7W79JYd27UwD8AtQCZigU+T7LM2UEF0wtD9zhgpsWvzko1Fu5YTVZJShQ9YJ0K3LrWZN5lye72HPZb4rb+xVer7l8twvgo0CI1gjjBPrNZ3IrYdvAsb1mzuaEHrVwzvpmDpiK38loRYKiUy/z1JeeFqUuHiUwCoyBtx5SV57EJKxVDG6aHSQ0D4HffRBUwyUggTzi2pBn2ANlCillfaXh19q44LvMWHUE6TcSlo/SYTkCa6hx6UbYBBWPV7qr7TorZ5YRTOyg4YBwjhWHrTDDF/G+IYnk5kTjG3pUhyUyE28loKIQh1Q5LfE8BMbRq2wyKkRrS8eyo8PEpuGnp6PX0tQo8BDazEGbBAUKtSVW0jbkdcd73mT8SjHbF3wlrQPV0oYegcc3obICIV4vUY4z2By0+SbzRQWUmvBMoAmDU62BUuYBTvuq5NCpzZyUxjd7fcbs/qSzoMsU+ObJ86R3g/6ya+KU3kOaZA2N7HKljyu0VUuI1TNsCRJ9TNx2Y56CpLtoaTou7d+FaE6bieolmuMOsSaDtC",
+  "file": {
+    "url": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/download/v0.23.0/OkulYonetim-Kurulum-0.23.0.exe",
+    "sha512": "CxVv7LUk4KC9xVYYdLvigp/3Itp7yZAnjbgET+XJRPqd0TXeuN+VL+5whhQlraGCRVg7oXOAqgX7JPsfOtFdXg==",
+    "size": 89206757
+  },
+  "page": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/tag/v0.23.0",
+  "lisans": [
+    {
+      "u": "https://ep-bitter-wave-baifyepi.apirest.c-8.eu-central-1.aws.neon.tech/neondb",
+      "k": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN5bG12eHczMXVyIn0.eyJyb2xlIjoiYW5vbnltb3VzIiwiaWF0IjoxNzkzNTQxMTM2LCJleHAiOjI1ODE5NDExMzZ9.A1jco1qRvct5cLfTzu0DFpReUN40lfF7CPqr7ThODHw-mAlx5tdAT-qPWonNMw7F2DHjAEZwrYPE0OY5916fCekeW1JyELO-wVNAFEMQFm7ih6reP2NJBk3WULtNwlyNLUXAeIs9qUItVqM5LiJn421CCBf8ex_pweHIZkw5MgFBHAEGCZUZEM-gfEzBtRMNTehlOkfmrQlPIwWuGOx3vebAsm-QSlenG6bOakDuqIfKSvMf4gWxSSKjescZtYDsMHHKmex8172jKAEUgdMml5IS9oBOqCea4WWnoRZsGDo6-0e3btoQhaE2irUc0DRgQ_Hxmudl4Wi8o7R7HFc5MQ"
+    }
+  ],
+  "sig": "MR8HieE1XummSE0k5EERr2ZpkS49fuYPAZb0jLNAapOKtUmgtcBjAwwC4TNqhlQLs6RCL8MI7ZDUvOBtGMFIDg=="
+}
