@@ -5,7 +5,7 @@
   "time": "2026-11-08T09:13:26.125Z",
   "notesX": "tS0xgwDrxjtzRAGnv7tO3sLN1XGojY/gApDGDndFgBanhDNF36b9yy11s96prWCiA3r/82Oz4ZeOfDS/9fDqtYqn41r9xFCDBZsqFgDuJT9/s3JychTw7edaagfsBIkPcIZAiWnBvn+d/u/CCVJpmIDwQv6jAE+p0TYQq1CVtTjxSbxtnF3Gnw/wQQchLuThptUrDoao4+adphL0YdWQ7BEVUvbTci53nLQmGhP6Yw/Y12BGEjJgwH1zmoKDca1SjS+/vIDAgUDkebepJ5yFVskAZuFhjNUu0JhES2MlK5FTIqRUzptRpuqVKSsLAH+kUsJjxf8fvxnQbFkotr59zAQ6bOaA7oV2hwWYPORwVLswtDO94KLPVGcJ7FRcpZHklETEgqeAxm44iJN5Q/NJjMayHLgVZsnLGNdYZC4/q7U+a/E7YJaTOJW3SfWgDW0Hm9Z9MD/B4WYq3pHKSFBYl83shZ5b6v46a7LPo/jlY/Hbbv2cbO2XDr6PkouHuU4kuquLtwm6KYfOPSa1oKXy1BROged6ijkjnQhlVdL/cw4Sjsyyftr4bQBcKA9Rqi2recdIA81rc6pJAKgDeOZSzPsV32JBqVszeeiaRlWH6bsz75OzXHHeshEzp6pNsnVVSXRuZj5KoQEKf/EvZ2M4o+ruULxe3m6hc/rjSHdvNdtA+pWfr6DMjdGzVizPjGUYiyE5Wn3pdGsa3sM9gDumF9OGNE3qUodvFEU+1a4M53J4AVxqPE1+2l8sYzPoHIpft/+aP0I7CS/ba5jkuX7yvMdaEhYOoZgMo5LOUip007xrBx/Mf5oZ2HJLjo6hPNK858TXGm0e7K+e7axyB/QQ4X0WiFbR67cEdVP1CBDel0hF9ux2UGn/4vOvXOo/6y29YMojN2iD8Je4j6WV4ZwaiXqbZzB4PxuZKlLZxjFpITGExIWai1+n35LAlUxGt0sTLKfFUAV8AxlwtRC24GIj7NUu",
   "file": {
-    "url": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/download/v0.27.0/OkulYonetim-Kurulum-0.27.0.exe",
+    "url": "https://turkyapayzekaburada-ops.github.io/okul-yonetim-merkez/guncelleme/dosyalar/OkulYonetim-Kurulum-0.27.0.exe",
     "sha512": "kpkCXiN2N8pogQCHo4wiBMnIW1bo3VHgqIBMLD2d21A47ntBGH0cfZjgOkg8yJInRR/M0mCOteuusWWPUK5ckQ==",
     "size": 89266735
   },
@@ -16,5 +16,5 @@
       "k": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN5bG12eHczMXVyIn0.eyJyb2xlIjoiYW5vbnltb3VzIiwiaWF0IjoxNzkzNTQxMTM2LCJleHAiOjI1ODE5NDExMzZ9.A1jco1qRvct5cLfTzu0DFpReUN40lfF7CPqr7ThODHw-mAlx5tdAT-qPWonNMw7F2DHjAEZwrYPE0OY5916fCekeW1JyELO-wVNAFEMQFm7ih6reP2NJBk3WULtNwlyNLUXAeIs9qUItVqM5LiJn421CCBf8ex_pweHIZkw5MgFBHAEGCZUZEM-gfEzBtRMNTehlOkfmrQlPIwWuGOx3vebAsm-QSlenG6bOakDuqIfKSvMf4gWxSSKjescZtYDsMHHKmex8172jKAEUgdMml5IS9oBOqCea4WWnoRZsGDo6-0e3btoQhaE2irUc0DRgQ_Hxmudl4Wi8o7R7HFc5MQ"
     }
   ],
-  "sig": "HLsCgr0+qGauPpul4ei9vjGfhty2BDFuujk3rgpHJT1lf5NPCVY2ZIj5b4nhfnSHuaxBohJRtRWh4X7F3KcmCw=="
+  "sig": "9DiyJ5+Jlw8Xsm+hH4EbZnIJeX/RZp6FAesS/vaNrSwKQ9ok1wnfYQcV5fLwBOysi/n4SrP82sAt3VTpIj8nCw=="
 }
