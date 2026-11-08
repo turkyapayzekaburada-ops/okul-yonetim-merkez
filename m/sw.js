@@ -1,5 +1,5 @@
 // Okul Yönetim Mobil — çevrim dışı önbellek
-const VERSION = 'oym-v1.16.0-20261108192949';
+const VERSION = 'oym-v1.16.0-20261108195058';
 const SHELL = ['./', 'index.html', 'app.css', 'app.js', 'qrcode.js', 'config.js', 'manifest.webmanifest',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/maskable-512.png', 'icons/apple-touch-icon.png', 'icons/favicon-32.png'];
 
