@@ -1,20 +1,20 @@
 {
   "product": "okul-yonetim",
-  "version": "0.43.0",
+  "version": "0.44.0",
   "date": "2026-11-08",
-  "time": "2026-11-08T21:40:25.920Z",
-  "notesX": "hoAiC88N4rNUW0Iaqakk6U/WHuhMC5nqI0yXAhabOozUbkd984g/dtqyq430msyexY3kTQvjWrcNWC9NLDfbLBxkiFQrcr96n20aJpfIy+QL0DwKwd8PqbhvCSy1BTjCpQ9vd2bm4dbKPNaW6Ju5VLKjtXjre5zPcuDmabv5LGms/E8HutT/h7n5+2wOMmLVKmZq7ki7EQKRMOnhuIgpVcTxY4eSQdH+X3ChmfoVoxzkr2I2tUjkPTSznzJr4Wvc2+MUOgabKQJop/PMnBfjNaBhxgVT04Ko75XaSc/ACPCtm4xymFSY5/3EOauMW0d+pbB3pxCX8oQZLGfcvx3E/2Fbj/thRbDUG46SyFU1rTynMpYieUvxo7+dSKIDmxco1oveAolLDfWtTCQdYS3Xljoshi92xszQxsC9VsJTODefhIgC40pHdAsViS4vOYBg0Z6bLmySwHVf0KgfaNzfPM+av7ZRy/Qdlw1E+R3pAeWDtHXQD67eQKhOYeIaxf1g0C6LLNp2y/VAgASa03I/Kugg37nqrOlYeHPO4fdhzW//g+D+d3AmfhaXdCuYY5DN23scwwp1dggdld5LpCXd8oew2qG3YRm613USOac05rLTSofccfeLzxgOmcS/f59wTesOqAYIebEwr9D3",
+  "time": "2026-11-08T22:04:34.351Z",
+  "notesX": "+zVngT5NbbpCJj9QNTuns5ikHxEsQrGQBBVZWLfxLFvirFgQ0DJg1NorTn7P22fY291vQkC2wrgTy+kjLyxKaLAkfzAnAQtoHElMI+6Ad41CZSNY4rjFWd+Fmc4f4u47GD7wxBV1aq+DoDFRGBsSyR73Z37NCPNU6m6XnIUQiPsXR7EUzOVhgMMJ5+9+JO2JadgJGJTMKXZpyFVWFWlzmZ+ZudHt9ifs13D/gMC2mdCvVMTLvuynSWNulT5B1Ewfcfdh7QypImZpiDhgyW4L91Y97IFXRKGi9F7qJ2pkVGD6/AB5YQIZBju3AlPU0n6PVP8pGGd47jT+CG3oXRDtLguHyjAq0l+a1x224DT8NlCxtnQulqy5IV4LRBDE74N4u51AV0Gbu3ZpvpZw/NbRTI1e4pgLbsi8H62oeJkU1nvaTtxUF+fBEeTmRi0AZqp83LEyGlHrAeoYw0tqouxBajMS07WxDsGm/Lvjg/x5SkVuc9UOXJwYHbISTh+ppnXkLc4z7sbmA76Vycwj+QHDjhQE2eGaSQNfBO/VCVuD6v8aa+0/jRv/v8hPCJxHXoikW1+xCfBr/TCDthKcpt2zAvr1oTfNTa22nkvwGAvbaHQfyNpFyEXtLKyyGpcveQm/xEx6vb+yfOGrENFhdnYI92H3q1DWcmmuNDlZSKo6TNMiCQzTG+03FDg+Uf+TAU9znFqJiA==",
   "file": {
-    "url": "https://turkyapayzekaburada-ops.github.io/okul-yonetim-merkez/guncelleme/dosyalar/OkulYonetim-Kurulum-0.43.0.exe",
-    "sha512": "lNNnO9kRagtxsAhTYhZu+C5qX81CrLiSuKY2DR5EQRFkl13SfupEzunmY0Tl3nAWIVcd4W/33xHZnaDi10KNcw==",
-    "size": 89344587
+    "url": "https://turkyapayzekaburada-ops.github.io/okul-yonetim-merkez/guncelleme/dosyalar/OkulYonetim-Kurulum-0.44.0.exe",
+    "sha512": "XNc/klHv1I6Zn80TmTr/aEHTxU/larTWQYzoCv2OD0kg0uJDibNJkfBevcSA7/aDz5DwHOizOkxGCamvMngtFQ==",
+    "size": 89346379
   },
-  "page": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/tag/v0.43.0",
+  "page": "https://github.com/turkyapayzekaburada-ops/okul-yonetim-merkez/releases/tag/v0.44.0",
   "lisans": [
     {
       "u": "https://ep-bitter-wave-baifyepi.apirest.c-8.eu-central-1.aws.neon.tech/neondb",
       "k": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InN5bG12eHczMXVyIn0.eyJyb2xlIjoiYW5vbnltb3VzIiwiaWF0IjoxNzkzNTQxMTM2LCJleHAiOjI1ODE5NDExMzZ9.A1jco1qRvct5cLfTzu0DFpReUN40lfF7CPqr7ThODHw-mAlx5tdAT-qPWonNMw7F2DHjAEZwrYPE0OY5916fCekeW1JyELO-wVNAFEMQFm7ih6reP2NJBk3WULtNwlyNLUXAeIs9qUItVqM5LiJn421CCBf8ex_pweHIZkw5MgFBHAEGCZUZEM-gfEzBtRMNTehlOkfmrQlPIwWuGOx3vebAsm-QSlenG6bOakDuqIfKSvMf4gWxSSKjescZtYDsMHHKmex8172jKAEUgdMml5IS9oBOqCea4WWnoRZsGDo6-0e3btoQhaE2irUc0DRgQ_Hxmudl4Wi8o7R7HFc5MQ"
     }
   ],
-  "sig": "xkdc3FSNYx97F6jWmTTuunwdqpNtJ8W9qnxaxFuLX1/H3fXCcZTWXf7DmN9e9ukUSg5HJL7R7ENjrEwpd410AA=="
+  "sig": "bJZAeOVkbB2LZhF4vhXMKSWUk1qnwM2zR4eNmAVeuzbNurDGzJ4BbTfjIWFkkVIFYN2bXDptKGct59ifedokCQ=="
 }
